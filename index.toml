@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/.pw.toml"
-hash = "e916c9618f4096a584c95a2ffba03183c99af0479b27005f479ef7c0ae1514e3"
-metafile = true
-
-[[files]]
 file = "mods/MTR-LU-Addon-fabric-1.19.2-2.1.1.jar"
 hash = "7be661f5a397e7b0433ef3623acde3a437a88ed24309813ff68d8b8e3bbcaa85"
 
@@ -262,11 +257,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "f72256580ba1f12d32538d3427325eb7d99ab49c0e8a8eeaa57e6e9e02de6cdf"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
 
 [[files]]
