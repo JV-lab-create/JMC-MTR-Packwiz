@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-sound-filters.pw.toml"
-hash = "31438f9090584f3be6386ba0a5178df0d69fa9b5d7f5e5f7d1b381bb7d503e0b"
+hash = "ffde99bd776b13a7128932c5fbe5d25eabc9e610fb91fbb78d0475c4cd7e5fef"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "61f75318d7335953e82b4504a91bd002822e863ee309e5a848ed6865409716de"
+hash = "84e0f635677ebf11d944f3fb7dab042d83f485b06dafb042e16c66b5cd2f4ba6"
 metafile = true
 
 [[files]]
@@ -267,5 +267,6 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "bd1627964e1f741c66769495732a2402e955499ad8e3c1d77adb24ac89ea35b3"
+hash = "d240d3fa6383e3ff875cbd30b403dfcfb58ee67603df55c384beb7bc43c576c8"
 metafile = true
+
