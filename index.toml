@@ -95,11 +95,6 @@ hash = "b887264366439ec55a7efb2411de72752f854e58a5b6f93243448c54c6f30c05"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "ec94d9d2e209b8f19eab587ce504108784c80c42a97fcb90734bfd5afbbb89da"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "865ffbf85ebd23860b712a6c0bd1857d0816c36415443a5e32d9aa385ff625d4"
 metafile = true
