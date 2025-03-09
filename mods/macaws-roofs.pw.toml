@@ -1,0 +1,13 @@
+name = "Macaw's Roofs"
+filename = "mcw-roofs-2.3.1-mc1.19.2fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B8jaH3P1/versions/pGLyFCJc/mcw-roofs-2.3.1-mc1.19.2fabric.jar"
+hash-format = "sha512"
+hash = "02c25d3363ab1ac25cf6dbe66dcd65ff19a63adba6860c2747c1ddcb06c2205301e6bd38f225a0d0fba2668fa07e540d4f07d9d38c3c8303c25a3a312f6383fb"
+
+[update]
+[update.modrinth]
+mod-id = "B8jaH3P1"
+version = "pGLyFCJc"
