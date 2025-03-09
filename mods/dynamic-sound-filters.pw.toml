@@ -14,7 +14,7 @@ project-id = 392101
 
 [option]
 optional = true
-default = false
+default = true
 description = """
 Adds Reverb in caves and the nether
 Adds Muffled sounds when submerged in water or lava
