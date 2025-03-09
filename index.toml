@@ -1,10 +1,4 @@
 hash-format = "sha256"
-
-[[files]]
-file = "mods/.pw.toml"
-hash = "e916c9618f4096a584c95a2ffba03183c99af0479b27005f479ef7c0ae1514e3"
-metafile = true
-
 [[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "eb459ec69576a244cf672b593bb9a86dd7ff079e231ceefba766cfa19402295f"
