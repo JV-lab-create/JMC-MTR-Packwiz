@@ -6,9 +6,7 @@ side = "both"
 optional = true
 default = false
 description = """
-[[ For Builders 建築者用 ]]
 Shows WorldEdit selection visually. (Tip: You can assign a hotkey for deselecting)
-圖形化顯示 WorldEdit 的選區。(提示: 可綁定一個取消選擇的熱鍵)
 """
 
 [download]
