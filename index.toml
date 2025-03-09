@@ -245,6 +245,11 @@ hash = "2445b598fab750edff5864f5ba28287eb8f4affa59505797c621a202a676c05b"
 metafile = true
 
 [[files]]
+file = "mods/the-tube.pw.toml"
+hash = "3dc94d1abb75c7f63b6858c0134e12434d86093c007c07d9b71387656deb1e9d"
+metafile = true
+
+[[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "61f75318d7335953e82b4504a91bd002822e863ee309e5a848ed6865409716de"
 metafile = true
@@ -263,3 +268,4 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "bd1627964e1f741c66769495732a2402e955499ad8e3c1d77adb24ac89ea35b3"
 metafile = true
+
