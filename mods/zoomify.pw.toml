@@ -11,3 +11,11 @@ hash = "01f1fcdab10eb48bd4cee7cc7bca5d74aca6af5cc770ac2d3ddad5210ec7a5475cdd5bab
 [update.modrinth]
 mod-id = "w7ThoJFB"
 version = "f017okM4"
+
+[option]
+optional = true
+default = true
+description = """
+Lets you zoom into stuff
+Zoom! Zoom!
+"""
