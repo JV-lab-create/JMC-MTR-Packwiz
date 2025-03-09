@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-sound-filters.pw.toml"
-hash = "ffde99bd776b13a7128932c5fbe5d25eabc9e610fb91fbb78d0475c4cd7e5fef"
+hash = "31438f9090584f3be6386ba0a5178df0d69fa9b5d7f5e5f7d1b381bb7d503e0b"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "84e0f635677ebf11d944f3fb7dab042d83f485b06dafb042e16c66b5cd2f4ba6"
+hash = "61f75318d7335953e82b4504a91bd002822e863ee309e5a848ed6865409716de"
 metafile = true
 
 [[files]]
@@ -258,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "f72256580ba1f12d32538d3427325eb7d99ab49c0e8a8eeaa57e6e9e02de6cdf"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "07728766b616b19f8feac5b6a2814e668b98832cc63efc61617b69145b38a77c"
 metafile = true
 
 [[files]]
